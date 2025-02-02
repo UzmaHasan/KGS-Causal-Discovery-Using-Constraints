@@ -1,4 +1,4 @@
-# KGS-Causal-Discovery-Using-Knowledge-guided-Greedy-Equivalence-Search
+# KGS: Knowledge-Guided Causal AI System
 
 Our code for KGS is based on the GES implementation from the repository: https://github.com/py-why/causal-learn
 
